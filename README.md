@@ -1,4 +1,4 @@
-#View SQL
+# View SQL
 ## 1. Vista cliente-invoice. Vemos las columnas que necesitamos desde sus tablas originales y las unimos con JOIN, lo siguiente es ejecutar:
  - Sentencia:
 
